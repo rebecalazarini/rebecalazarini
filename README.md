@@ -1,16 +1,16 @@
-## Hi there 👋
+## eu sou a Rebeca 👋
 
-<!--
-**rebecalazarini/rebecalazarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
+<img src="https://media.giphy.com/media/YOURGIF/giphy.gif" width="200">
 
-Here are some ideas to get you started:
+# Sobre mim
+💻 Desenvolvedora Back-end
+📚 Apaixonada por tecnologia e aprendizado contínuo 
+## 🚀 Tecnologias
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RebecaLazarini&show_icons=true&theme=dracula)
+
