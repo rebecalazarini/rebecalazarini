@@ -20,7 +20,7 @@
 
 ### Linguagens Utilizadas
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonbsouzaa&langs_count=20&theme=gotham" alt="Hoang Son's Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalazarini&langs_count=20&theme=gotham" alt="Hoang Son's Languages" />
 </div>
 
 # Sobre mim
