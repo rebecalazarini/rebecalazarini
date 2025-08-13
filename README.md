@@ -2,15 +2,6 @@
 
 ![github-user-contribution](https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538)
 
-# GitHub Profile Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rebecalazarini&show_icons=true&theme=gotham" alt="" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalazarini&layout=compact&theme=gotham&langs_count=20" alt="" />
-</div>
-
 ---
 
 
@@ -36,4 +27,12 @@
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RebecaLazarini&show_icons=true&theme=dracula)
+# GitHub Profile Stats
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rebecalazarini&show_icons=true&theme=gotham" alt="" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalazarini&layout=compact&theme=gotham&langs_count=20" alt="" />
+</div>
 
