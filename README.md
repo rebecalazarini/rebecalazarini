@@ -1,8 +1,9 @@
-## eu sou a Rebeca 👋
+## Eu sou a Rebeca 👋
 
 # Sobre mim
 - 💻 Desenvolvedora Back-end
-- 📚 Apaixonada por tecnologia e aprendizado contínuo 
+- 📚 Apaixonada por tecnologia e aprendizado contínuo
+
 ## 🚀 Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Rebeca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
