@@ -8,10 +8,6 @@
 </div>
 
 <div align="center">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rebecalaarini?cardType=level&theme=gotham&preferLogin=false" alt="" />
-</div>
-
-<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalazarini&layout=compact&theme=gotham&langs_count=20" alt="" />
 </div>
 
