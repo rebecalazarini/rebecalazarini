@@ -1,8 +1,5 @@
 ## eu sou a Rebeca 👋
 
-![Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)
-<img src="https://media.giphy.com/media/YOURGIF/giphy.gif" width="200">
-
 # Sobre mim
 💻 Desenvolvedora Back-end
 📚 Apaixonada por tecnologia e aprendizado contínuo 
