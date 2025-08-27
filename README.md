@@ -5,7 +5,7 @@
 ---
 
 # Sobre mim
-- 💻 Desenvolvedora Back-end
+- 💻 Desenvolvedora Back-end, técnico em desenvolvimento de software
 - 📚 Apaixonada por tecnologia e aprendizado contínuo
 
 ## 🚀 Tecnologias
