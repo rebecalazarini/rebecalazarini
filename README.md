@@ -22,9 +22,9 @@
 </div>
 
 ### Projetos
-[NLW20](https://github.com/rebecalazarini/NLW20)
-[Dashboard com Streamlit](https://github.com/rebecalazarini/Dashboard-com-Streamlit-2025)
-[Receitas com Vite + React](https://github.com/rebecalazarini/receitas-vite-react)
+- [NLW20](https://github.com/rebecalazarini/NLW20)
+- [Dashboard com Streamlit](https://github.com/rebecalazarini/Dashboard-com-Streamlit-2025)
+- [Receitas com Vite + React](https://github.com/rebecalazarini/receitas-vite-react)
 
 ### Linguagens Utilizadas
 <div align="center">
