@@ -21,6 +21,11 @@
   <img align="center" alt="Rebeca-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
+### Projetos
+[NLW20](https://github.com/rebecalazarini/NLW20)
+[Dashboard com Streamlit](https://github.com/rebecalazarini/Dashboard-com-Streamlit-2025)
+[Receitas com Vite + React](https://github.com/rebecalazarini/receitas-vite-react)
+
 ### Linguagens Utilizadas
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalazarini&langs_count=20&theme=gotham" alt="Hoang Son's Languages" />
