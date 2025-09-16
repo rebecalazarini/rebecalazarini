@@ -32,12 +32,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalazarini&langs_count=20&theme=gotham" alt="Hoang Son's Languages" />
 </div>
 
-# GitHub Profile Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=RebecaLazarini&show_icons=true&theme=dracula" alt="" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecalazarini&layout=compact&theme=gotham&langs_count=20" alt="" />
-</div>
-
