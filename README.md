@@ -4,7 +4,7 @@
 ---
 
 # Sobre mim
-[Meu Portifolio](https://github.com/rebecalazarini/Portifolio)
+- [Meu Portifolio](https://github.com/rebecalazarini/Portifolio)
 - 💻 Desenvolvedora Back-end, técnico em desenvolvimento de software
 - 📚 Apaixonada por tecnologia e aprendizado contínuo
 
