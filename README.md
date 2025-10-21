@@ -7,6 +7,7 @@
 - [Meu Portifolio](https://github.com/rebecalazarini/Portifolio)
 - 💻 Desenvolvedora Back-end, técnico em desenvolvimento de software
 - 📚 Apaixonada por tecnologia e aprendizado contínuo
+- Analista de dados
 
 ## 🚀 Tecnologias
 <div style="display: inline_block"><br>
