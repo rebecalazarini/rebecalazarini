@@ -5,9 +5,9 @@
 
 # Sobre mim
 - [Meu Portifolio](https://github.com/rebecalazarini/Portifolio)
-- 💻 Desenvolvedora Back-end, técnico em desenvolvimento de software
+- 📚 Desenvolvedora Back-end, técnico em desenvolvimento de software
 - 📚 Apaixonada por tecnologia e aprendizado contínuo
-- Analista de dados
+- 📚 Analista de dados
 
 ## 🚀 Tecnologias
 <div style="display: inline_block"><br>
